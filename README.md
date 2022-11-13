@@ -27,7 +27,6 @@ Each of the above folders contains subfolders for different fruits and vegetable
   <li>Keras</li>
   <li>Tensorflow</li>
   <li>Matplotlib</li>
-  <li>Numpy</li>
 </ul>
 
 ## Data Collection
